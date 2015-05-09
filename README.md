@@ -7,7 +7,7 @@ A test repository for running through the steps from https://guides.github.com/a
 
 # Markdown test area
 
-Sample code can be written in 'if (a < b) { c*2 }'
+Sample code can be written in `if (a < b) { c*2 }`
 
 ```
 if(a < b) {
